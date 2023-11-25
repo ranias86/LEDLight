@@ -1,4 +1,5 @@
 # LEDLight
+Arduino IDE 2.x
 
 This program to get 3 different LEDs turn on then turn off in sequence.
 so if we have Red, Yellow and Green in sequence, we should follow the below steps:
